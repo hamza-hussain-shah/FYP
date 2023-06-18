@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590211205002",
+    "project_id": "book-share-75c3b",
+    "storage_bucket": "book-share-75c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590211205002:android:d91e038724659eb7c9ea73",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590211205002-t50ceaiu4ulii51spjlq8uec68eraaja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFWdylEymJXHVQ1Rgujq-i87fVWPkAC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590211205002-t50ceaiu4ulii51spjlq8uec68eraaja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
